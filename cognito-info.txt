@@ -1,0 +1,2 @@
+pool id: us-east-2_57jpQupfc
+client id: 7ec9h7hhtchermdsceg3v2p5ar
